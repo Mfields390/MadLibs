@@ -1,0 +1,13 @@
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\bin\Debug\netcoreapp3.1\Madlibs.exe
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\bin\Debug\netcoreapp3.1\Madlibs.deps.json
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\bin\Debug\netcoreapp3.1\Madlibs.runtimeconfig.json
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\bin\Debug\netcoreapp3.1\Madlibs.runtimeconfig.dev.json
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\bin\Debug\netcoreapp3.1\Madlibs.dll
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\bin\Debug\netcoreapp3.1\Madlibs.pdb
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.csprojAssemblyReference.cache
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.AssemblyInfoInputs.cache
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.AssemblyInfo.cs
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.dll
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.pdb
+C:\Users\Mickey\source\repos\Madlibs\Madlibs\obj\Debug\netcoreapp3.1\Madlibs.genruntimeconfig.cache
